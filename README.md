@@ -1,4 +1,4 @@
-# tessela.sh
+# bspwm-tessela
 
 🎯 **Propósito**  
 Este script está diseñado para usarse en entornos con el window manager [bspwm](https://github.com/baskerville/bspwm), donde la gestión de ventanas sigue un esquema de partición binaria.
